@@ -1,0 +1,26 @@
+{
+  "name": "wedlock_backend",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishekkr93/WedLock_backend.git"
+  },
+  "author": "vimal kumar <vimal@letskhabar.com> (https://vimal.letskhabar.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abhishekkr93/WedLock_backend/issues"
+  },
+  "homepage": "https://github.com/Abhishekkr93/WedLock_backend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "nodemon": "^2.0.7"
+  }
+}
